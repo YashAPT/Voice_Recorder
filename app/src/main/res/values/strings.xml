@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Voice App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="press_the_mic_button_n_to_start_recording">Press the mic button \n to start recording</string>
+    <string name="media_player">Media Player</string>
+    <string name="filename">Filename</string>
+    <string name="textview">TextView</string>
+</resources>
